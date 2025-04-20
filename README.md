@@ -8,7 +8,7 @@ Using 130k+ WineMag reviews scraped from Kaggle, this project applies classic NL
 ## Data
 | Source | Rows | Notes |
 |--------|------|-------|
-| Kaggle “Wine Reviews” (WineMag) | ~60 000 | Free text reviews + metadata, no personally identifiable information |
+| Kaggle “Wine Reviews” (WineMag) | ~130 000 | Free text reviews |
 
 All raw CSVs live in **https://www.kaggle.com/datasets/zynicide/wine-reviews/data**; the project is completely reproducible offline.
 
