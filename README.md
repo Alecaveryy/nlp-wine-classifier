@@ -10,7 +10,7 @@ Using 130k+ WineMag reviews scraped from Kaggle, this project applies classic NL
 |--------|------|-------|
 | Kaggle “Wine Reviews” (WineMag) | ~130 000 | Free text reviews |
 
-All raw CSVs live in **https://www.kaggle.com/datasets/zynicide/wine-reviews/data**; the project is completely reproducible offline.
+Data can be found here: **https://www.kaggle.com/datasets/zynicide/wine-reviews/data**; the project is completely reproducible offline.
 
 ## Methods & Libraries
 - **Text preprocessing** – tokenisation (`nltk`), stop‑word removal, Count & TF‑IDF vectorisers  
